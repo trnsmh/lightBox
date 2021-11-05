@@ -2,6 +2,7 @@
 ## Basic React App (codealong)
 ### Practice **React States** and **React Props**
 
+![app_snapshot](./reactLightBox.jpg)
 
 
 ---
