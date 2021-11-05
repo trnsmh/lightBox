@@ -2,7 +2,7 @@
 ## Basic React App (codealong)
 ### Practice **React States** and **React Props**
 
-![app_snapshot](./reactLightBox.jpg)
+<img src="./reactLightBox.jpg" alt="drawing" style="width:300px; height:300px;"/>
 
 
 ---
